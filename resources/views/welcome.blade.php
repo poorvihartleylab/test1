@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel Documentation is a grate documentation
+                    Laravel Documentation is a grate documentation I understand all thing
                 </div>
 
                 <div class="links">
